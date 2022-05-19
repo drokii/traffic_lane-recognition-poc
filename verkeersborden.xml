@@ -1,0 +1,4112 @@
+<List>
+    <item>
+        <id>9212510</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>A1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.3094</latitude>
+                <longitude>4.97604</longitude>
+            </wgs84>
+            <rd>
+                <x>126960</x>
+                <y>480240</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Gaasperdammerweg</name>
+                <type>1</type>
+                <number>9</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Amsterdam</name>
+                <code>GM0363</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://streetsmart.cyclomedia.com/streetsmart?q=126959.87568457;480240.02426275;EPSG:28992</image>
+            <first_seen>16/09/2019</first_seen>
+            <last_seen>16/09/2019</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:04.226Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9212514</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>A4</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.2987</latitude>
+                <longitude>4.94213</longitude>
+            </wgs84>
+            <rd>
+                <x>124640</x>
+                <y>479058</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Gaasperdammerweg</name>
+                <type>1</type>
+                <number>9</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Amsterdam</name>
+                <code>GM0363</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://streetsmart.cyclomedia.com/streetsmart?q=124639.53850411;479057.70801848;EPSG:28992</image>
+            <first_seen>16/09/2019</first_seen>
+            <last_seen>16/09/2019</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:04.972Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9212516</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>A1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.2992</latitude>
+                <longitude>4.94611</longitude>
+            </wgs84>
+            <rd>
+                <x>124912</x>
+                <y>479115</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Gaasperdammerweg</name>
+                <type>1</type>
+                <number>9</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Amsterdam</name>
+                <code>GM0363</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://streetsmart.cyclomedia.com/streetsmart?q=124911.77851262;479114.99442012;EPSG:28992</image>
+            <first_seen>16/09/2019</first_seen>
+            <last_seen>16/09/2019</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:06.188Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9212519</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.3013</latitude>
+                <longitude>4.94837</longitude>
+            </wgs84>
+            <rd>
+                <x>125067</x>
+                <y>479354</y>
+            </rd>
+            <placement>L</placement>
+            <side>R</side>
+            <road>
+                <name>Amsterdam-Zuidoost 3</name>
+                <type>1</type>
+                <number>9</number>
+                <wvk_id>600124624</wvk_id>
+            </road>
+            <county>
+                <name>Amsterdam</name>
+                <code>GM0363</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://streetsmart.cyclomedia.com/streetsmart?q=125067.335;479354.258;EPSG:28992</image>
+            <first_seen>16/09/2019</first_seen>
+            <last_seen>16/09/2019</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:06.735Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213474</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>A1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9246</latitude>
+                <longitude>6.68368</longitude>
+            </wgs84>
+            <rd>
+                <x>242186</x>
+                <y>549395</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>484498002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/55d/55de87b1-bd5a-4465-9f95-2b3af8d61a3b.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:07.184Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213475</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9246</latitude>
+                <longitude>6.68368</longitude>
+            </wgs84>
+            <rd>
+                <x>242186</x>
+                <y>549395</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>484498002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/7a3/7a33832a-fe16-4a44-b7b1-bed314783854.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:07.837Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213476</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>A1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9255</latitude>
+                <longitude>6.68247</longitude>
+            </wgs84>
+            <rd>
+                <x>242103</x>
+                <y>549499</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>483500005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/489/489aa43a-b5b2-41a8-af6f-d2ffeb9bce8a.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:08.145Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213477</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9255</latitude>
+                <longitude>6.68247</longitude>
+            </wgs84>
+            <rd>
+                <x>242103</x>
+                <y>549499</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>483500005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/98a/98a531b2-c523-4032-9e27-d1863c63ee6a.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:08.548Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213481</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.992</latitude>
+                <longitude>6.86671</longitude>
+            </wgs84>
+            <rd>
+                <x>254339</x>
+                <y>557128</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>508514008</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/fac/fac8fb29-2cf7-4e22-9e15-43e2eead9ad3.jpg</image>
+            <first_seen>19/02/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:08.759Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213484</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9712</latitude>
+                <longitude>6.6544</longitude>
+            </wgs84>
+            <rd>
+                <x>240126</x>
+                <y>554552</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480509032</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/b8f/b8f12462-2f27-4c43-82b5-fab461edf6a1.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:08.848Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213485</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9713</latitude>
+                <longitude>6.65435</longitude>
+            </wgs84>
+            <rd>
+                <x>240122</x>
+                <y>554563</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480509032</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/553/553ebb62-92f5-4f9d-9964-4d5cd3daea37.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:08.935Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213486</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9881</latitude>
+                <longitude>6.84465</longitude>
+            </wgs84>
+            <rd>
+                <x>252867</x>
+                <y>556673</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>505513046</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/dd7/dd7b33a4-63ef-40c3-b53c-bc75ee75a370.jpg</image>
+            <first_seen>19/02/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.022Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213487</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.972</latitude>
+                <longitude>6.65399</longitude>
+            </wgs84>
+            <rd>
+                <x>240097</x>
+                <y>554631</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480509030</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/652/652a7967-3f34-42a1-a6c4-9cc5fa893fdf.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.100Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213489</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>D2</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9919</latitude>
+                <longitude>6.86653</longitude>
+            </wgs84>
+            <rd>
+                <x>254327</x>
+                <y>557125</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>508514008</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/631/6315e1d2-9e26-4fd3-ac51-b14f6df545df.jpg</image>
+            <first_seen>19/02/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.186Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213554</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>C2</rvv_code>
+        <text_signs>
+            <text_signs>200 m</text_signs>
+        </text_signs>
+        <location>
+            <wgs84>
+                <latitude>53.0432</latitude>
+                <longitude>6.82449</longitude>
+            </wgs84>
+            <rd>
+                <x>251391</x>
+                <y>562770</y>
+            </rd>
+            <placement>L</placement>
+            <side>L</side>
+            <road>
+                <name>Gieterveen 35</name>
+                <type>2</type>
+                <number>33</number>
+                <wvk_id>600153242</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/15d/15d31dc0-2da6-46cb-8b4f-c8ca0e81cf15.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.262Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213556</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>J27</rvv_code>
+        <text_signs>
+            <text_signs>1,4km</text_signs>
+        </text_signs>
+        <location>
+            <wgs84>
+                <latitude>52.9975</latitude>
+                <longitude>6.89872</longitude>
+            </wgs84>
+            <rd>
+                <x>256476</x>
+                <y>557785</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>512515002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/6f5/6f5e60be-d414-4db3-9044-fdac286e7197.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.347Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213558</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>J27</rvv_code>
+        <text_signs>
+            <text_signs>2 km</text_signs>
+        </text_signs>
+        <location>
+            <wgs84>
+                <latitude>52.901</latitude>
+                <longitude>6.67915</longitude>
+            </wgs84>
+            <rd>
+                <x>241928</x>
+                <y>546768</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Elperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id>483493007</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/86b/86b5050f-215d-461b-9640-c170309b74ca.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.432Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213560</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>J27</rvv_code>
+        <text_signs>
+            <text_signs>1,7 km</text_signs>
+        </text_signs>
+        <location>
+            <wgs84>
+                <latitude>52.9796</latitude>
+                <longitude>6.8061</longitude>
+            </wgs84>
+            <rd>
+                <x>250297</x>
+                <y>555676</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>500511001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d56/d56cf695-ff95-4825-8df4-ead31d2d6286.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.535Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213562</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>J27</rvv_code>
+        <text_signs>
+            <text_signs>1,7 km</text_signs>
+        </text_signs>
+        <location>
+            <wgs84>
+                <latitude>52.9852</latitude>
+                <longitude>6.82936</longitude>
+            </wgs84>
+            <rd>
+                <x>251847</x>
+                <y>556330</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>500511001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/4c3/4c334d88-5c95-44c4-a389-02842a808cd7.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.621Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213565</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>L14</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0107</latitude>
+                <longitude>6.75035</longitude>
+            </wgs84>
+            <rd>
+                <x>246488</x>
+                <y>559065</y>
+            </rd>
+            <placement>L</placement>
+            <side>L</side>
+            <road>
+                <name>Rykswg</name>
+                <type>2</type>
+                <number>33</number>
+                <wvk_id>600152229</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/c4c/c4c7f51a-2f02-4f55-b8cf-71c02ddfb8b9.jpg</image>
+            <first_seen>23/02/2016</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.704Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213566</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9761</latitude>
+                <longitude>6.651</longitude>
+            </wgs84>
+            <rd>
+                <x>239888</x>
+                <y>555093</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/a0c/a0c8c4a4-a13d-41c1-98d9-df6f9e1999b1.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.778Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213567</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9761</latitude>
+                <longitude>6.651</longitude>
+            </wgs84>
+            <rd>
+                <x>239888</x>
+                <y>555093</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/dde/ddefbdd7-9968-4ac1-964a-00e1a1aa6f4b.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.880Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213571</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9503</latitude>
+                <longitude>6.70429</longitude>
+            </wgs84>
+            <rd>
+                <x>243519</x>
+                <y>552278</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Papenvoort</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id>487504001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/a42/a428c419-c3a0-4976-acfe-ffe3ed24527d.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:09.955Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213572</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9542</latitude>
+                <longitude>6.69856</longitude>
+            </wgs84>
+            <rd>
+                <x>243127</x>
+                <y>552709</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Papenvoort</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id>485506005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/039/0392ad7f-3207-4a93-bb78-f8bc10e7bb98.jpg</image>
+            <first_seen>29/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.039Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213573</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9338</latitude>
+                <longitude>6.6763</longitude>
+            </wgs84>
+            <rd>
+                <x>241671</x>
+                <y>550412</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>483501005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/09e/09e21bbc-5ded-4c21-be50-b815a2b4f636.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.142Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213574</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9601</latitude>
+                <longitude>6.69116</longitude>
+            </wgs84>
+            <rd>
+                <x>242618</x>
+                <y>553358</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id>485506006</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/e1b/e1b725c3-7666-4a6c-8cab-5342b8c03b93.jpg</image>
+            <first_seen>29/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.255Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213578</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9928</latitude>
+                <longitude>6.87324</longitude>
+            </wgs84>
+            <rd>
+                <x>254776</x>
+                <y>557233</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Drentse Mondenweg</name>
+                <type>2</type>
+                <number>379</number>
+                <wvk_id>509514013</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/21e/21e5bdb1-cbb9-4e65-9983-2c7074811b6e.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.370Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213579</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9869</latitude>
+                <longitude>6.84</longitude>
+            </wgs84>
+            <rd>
+                <x>252558</x>
+                <y>556529</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>505513046</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/9a7/9a750b2c-50be-4107-a557-6dadf8eecc72.jpg</image>
+            <first_seen>19/02/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.475Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213580</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9972</latitude>
+                <longitude>6.8971</longitude>
+            </wgs84>
+            <rd>
+                <x>256368</x>
+                <y>557750</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>512515002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/7e6/7e68a124-e100-4c8b-bb9b-b079d89f0608.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.603Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213581</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9299</latitude>
+                <longitude>6.67791</longitude>
+            </wgs84>
+            <rd>
+                <x>241787</x>
+                <y>549983</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>483500005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/397/3972c3f7-d917-45b1-b872-3af58124cc41.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.716Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213582</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9013</latitude>
+                <longitude>6.70263</longitude>
+            </wgs84>
+            <rd>
+                <x>243507</x>
+                <y>546829</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Hoofdstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>486493005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/f25/f251d0fd-ede1-47b0-a238-6787b7019516.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.825Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213583</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9754</latitude>
+                <longitude>6.77908</longitude>
+            </wgs84>
+            <rd>
+                <x>248492</x>
+                <y>555168</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>496510041</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/9f2/9f2938ce-679c-4481-87e8-28ecbac220fa.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:10.940Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213584</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.997</latitude>
+                <longitude>6.89561</longitude>
+            </wgs84>
+            <rd>
+                <x>256268</x>
+                <y>557729</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>509514014</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/b6c/b6cda03c-cd6c-4282-b1d1-74b23256d7f4.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.044Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213586</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9335</latitude>
+                <longitude>6.67626</longitude>
+            </wgs84>
+            <rd>
+                <x>241669</x>
+                <y>550383</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>483500001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/cdf/cdff236f-6da1-48a3-9471-916d0ae9af0f.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.147Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213588</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9049</latitude>
+                <longitude>6.70097</longitude>
+            </wgs84>
+            <rd>
+                <x>243388</x>
+                <y>547231</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id>486494012</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d51/d51ed84d-c287-4175-9e57-bfb04a540e3d.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.240Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213591</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9867</latitude>
+                <longitude>6.87497</longitude>
+            </wgs84>
+            <rd>
+                <x>254906</x>
+                <y>556556</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Drentse Mondenweg</name>
+                <type>2</type>
+                <number>379</number>
+                <wvk_id>509513007</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/874/874ced9f-b5e0-4566-a809-e5ee580fa210.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.373Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213594</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.986</latitude>
+                <longitude>6.8751</longitude>
+            </wgs84>
+            <rd>
+                <x>254916</x>
+                <y>556482</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Drentse Mondenweg</name>
+                <type>2</type>
+                <number>379</number>
+                <wvk_id>509513006</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/31b/31b223cd-affd-4d54-83e8-cd33596c296b.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.487Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213597</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.8912</latitude>
+                <longitude>6.711</longitude>
+            </wgs84>
+            <rd>
+                <x>244091</x>
+                <y>545712</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Hoofdstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>488491002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/f56/f56c08b0-af9e-4fbd-874f-b68edd0b05a2.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.591Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213598</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9746</latitude>
+                <longitude>6.66842</longitude>
+            </wgs84>
+            <rd>
+                <x>241061</x>
+                <y>554941</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id>482509001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d23/d2357ee2-613c-49dd-b4e8-5831a3867f28.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.710Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213599</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9843</latitude>
+                <longitude>6.8759</longitude>
+            </wgs84>
+            <rd>
+                <x>254974</x>
+                <y>556289</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Drentse Mondenweg</name>
+                <type>2</type>
+                <number>379</number>
+                <wvk_id>509513006</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/858/858c2d32-e16c-4dd7-9a92-353a85ae07a7.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.824Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213600</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9047</latitude>
+                <longitude>6.70027</longitude>
+            </wgs84>
+            <rd>
+                <x>243342</x>
+                <y>547200</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id>486494019</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d6f/d6fe8258-9c37-477c-8ef1-a64c46b3c4b0.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:11.932Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213605</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9499</latitude>
+                <longitude>6.66729</longitude>
+            </wgs84>
+            <rd>
+                <x>241034</x>
+                <y>552188</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Rolderstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>481506001</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/370/37054b82-d967-4dea-970c-90d65c5bab5b.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.047Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213608</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9662</latitude>
+                <longitude>6.65725</longitude>
+            </wgs84>
+            <rd>
+                <x>240327</x>
+                <y>553996</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480508010</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/e1b/e1b705cb-793e-4080-8185-88767fd1d3f8.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.178Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213609</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9605</latitude>
+                <longitude>6.69093</longitude>
+            </wgs84>
+            <rd>
+                <x>242601</x>
+                <y>553397</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id>483508002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/c84/c8409f6c-91cc-420f-9612-19c8ab210cd7.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.284Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213610</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.79343</longitude>
+            </wgs84>
+            <rd>
+                <x>249454</x>
+                <y>555277</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>498510025</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/437/43721cda-a481-444a-9fd8-ee0c8ba2ba93.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.398Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213614</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9643</latitude>
+                <longitude>6.65835</longitude>
+            </wgs84>
+            <rd>
+                <x>240405</x>
+                <y>553786</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480508010</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/f20/f20226d7-1590-47cc-865c-eb3314afc1b4.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.500Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213619</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9204</latitude>
+                <longitude>6.68895</longitude>
+            </wgs84>
+            <rd>
+                <x>242548</x>
+                <y>548939</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Schoonlo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>484498002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/3d4/3d4d9194-0504-4c80-a1a9-c987011ae96b.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.624Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213620</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9676</latitude>
+                <longitude>6.65657</longitude>
+            </wgs84>
+            <rd>
+                <x>240279</x>
+                <y>554154</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480509032</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d34/d34c17ea-d344-43c6-8084-5e5281043818.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.714Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213621</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.79048</longitude>
+            </wgs84>
+            <rd>
+                <x>249256</x>
+                <y>555276</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>496510041</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/26e/26ed47b6-aa3b-41d3-a497-46842a8ed573.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.818Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213623</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.965</latitude>
+                <longitude>6.65812</longitude>
+            </wgs84>
+            <rd>
+                <x>240388</x>
+                <y>553858</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>480508010</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/e29/e2906346-8534-4ea1-a2a7-483c6d221ab3.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:12.978Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213624</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9018</latitude>
+                <longitude>6.70218</longitude>
+            </wgs84>
+            <rd>
+                <x>243476</x>
+                <y>546879</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Hoofdstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>486494018</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/142/1424fb18-e198-477f-9813-702f44f22148.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.087Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213625</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9494</latitude>
+                <longitude>6.66739</longitude>
+            </wgs84>
+            <rd>
+                <x>241041</x>
+                <y>552133</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Rolderstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>482504008</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d03/d036d8aa-50f0-4da8-b91f-fc5d261361d5.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.193Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213626</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B1</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9061</latitude>
+                <longitude>6.70324</longitude>
+            </wgs84>
+            <rd>
+                <x>243539</x>
+                <y>547362</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id>487494005</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d35/d35731c9-5a0c-449a-8f44-f6f1fcf87e30.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.275Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213672</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9719</latitude>
+                <longitude>6.65411</longitude>
+            </wgs84>
+            <rd>
+                <x>240105</x>
+                <y>554626</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/db5/db57410a-f68b-4e9e-974d-65edce7f9a3d.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.380Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213673</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9719</latitude>
+                <longitude>6.65411</longitude>
+            </wgs84>
+            <rd>
+                <x>240105</x>
+                <y>554626</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/665/6659f44a-af57-4ac6-8575-102bc94254d2.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.489Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213678</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9991</latitude>
+                <longitude>6.75393</longitude>
+            </wgs84>
+            <rd>
+                <x>246753</x>
+                <y>557772</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Gieten</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/2c5/2c5eeee8-fd9e-4cd4-9953-2186ed831410.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.597Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213679</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9991</latitude>
+                <longitude>6.75393</longitude>
+            </wgs84>
+            <rd>
+                <x>246752</x>
+                <y>557772</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Gieten</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/ebc/ebcbb004-d5c3-4f24-86ec-62e5a48ad8f5.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.693Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213680</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9668</latitude>
+                <longitude>6.65651</longitude>
+            </wgs84>
+            <rd>
+                <x>240276</x>
+                <y>554054</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/c57/c571720f-72e0-44c7-a8e5-992b08068030.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:13.803Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213681</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9668</latitude>
+                <longitude>6.65651</longitude>
+            </wgs84>
+            <rd>
+                <x>240276</x>
+                <y>554055</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Klaassteenweg</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/844/8447b349-2b8f-4366-92be-1211d9420208.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.031Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213684</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9682</latitude>
+                <longitude>6.68071</longitude>
+            </wgs84>
+            <rd>
+                <x>241899</x>
+                <y>554246</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/a42/a42cc4df-f918-46a2-9dea-13e38120adaf.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.115Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213685</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9682</latitude>
+                <longitude>6.68071</longitude>
+            </wgs84>
+            <rd>
+                <x>241899</x>
+                <y>554246</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/ceb/ceb29e53-b75a-4a39-8e97-15136c6b2157.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.232Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213686</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.976</latitude>
+                <longitude>6.65117</longitude>
+            </wgs84>
+            <rd>
+                <x>239900</x>
+                <y>555079</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/9c7/9c77b62c-769f-4650-8472-934b91be2917.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.333Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213687</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.976</latitude>
+                <longitude>6.65117</longitude>
+            </wgs84>
+            <rd>
+                <x>239900</x>
+                <y>555079</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/c83/c83b67d7-ba71-400d-8c4f-89463a403482.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.432Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213688</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9668</latitude>
+                <longitude>6.65641</longitude>
+            </wgs84>
+            <rd>
+                <x>240269</x>
+                <y>554064</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/96c/96c4b394-252c-4563-9b10-950f2ff958fd.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.541Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213689</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9668</latitude>
+                <longitude>6.65641</longitude>
+            </wgs84>
+            <rd>
+                <x>240269</x>
+                <y>554064</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/2a1/2a14d370-10ef-4e3a-b8ff-dac6a293db16.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.655Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213690</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9742</latitude>
+                <longitude>6.65217</longitude>
+            </wgs84>
+            <rd>
+                <x>239970</x>
+                <y>554879</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/dc1/dc1e7af5-a2c9-45eb-9bdd-d46f3020c414.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.748Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213691</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9742</latitude>
+                <longitude>6.65217</longitude>
+            </wgs84>
+            <rd>
+                <x>239970</x>
+                <y>554878</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/1a3/1a3dde05-e33a-4858-b199-e2d7ed06861e.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:14.848Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213692</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0488</latitude>
+                <longitude>6.7141</longitude>
+            </wgs84>
+            <rd>
+                <x>243977</x>
+                <y>563259</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/bfa/bfa7305d-834a-431b-843c-c6addf0e3f58.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>11/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.004Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213693</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0488</latitude>
+                <longitude>6.7141</longitude>
+            </wgs84>
+            <rd>
+                <x>243977</x>
+                <y>563258</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/be4/be40cc90-7e5b-48f2-a2ae-b4333b7820ed.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>11/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.111Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213698</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0484</latitude>
+                <longitude>6.71303</longitude>
+            </wgs84>
+            <rd>
+                <x>243906</x>
+                <y>563210</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/129/129bdfb2-daa5-44b0-89b9-b060fb5ebea5.jpg</image>
+            <first_seen>23/12/2015</first_seen>
+            <last_seen>11/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.226Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213699</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0484</latitude>
+                <longitude>6.71303</longitude>
+            </wgs84>
+            <rd>
+                <x>243906</x>
+                <y>563210</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/211/21160ffd-b5c4-4ef8-9273-c1b498b930de.jpg</image>
+            <first_seen>23/12/2015</first_seen>
+            <last_seen>11/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.309Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213700</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9044</latitude>
+                <longitude>6.69885</longitude>
+            </wgs84>
+            <rd>
+                <x>243247</x>
+                <y>547165</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Elperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/afc/afcb0746-9c06-4a22-a2ad-6204be04b930.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.406Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213701</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9044</latitude>
+                <longitude>6.69885</longitude>
+            </wgs84>
+            <rd>
+                <x>243247</x>
+                <y>547165</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/3dc/3dc9ef58-dc2a-4613-b852-6e069cd15320.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.515Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213702</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9741</latitude>
+                <longitude>6.65234</longitude>
+            </wgs84>
+            <rd>
+                <x>239982</x>
+                <y>554865</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Rolde 33</name>
+                <type>2</type>
+                <number>33</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/483/4835be4d-d39b-4b84-9b1e-a6900636b89f.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.638Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213703</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9741</latitude>
+                <longitude>6.65234</longitude>
+            </wgs84>
+            <rd>
+                <x>239982</x>
+                <y>554865</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Rolde</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/e11/e112929b-e681-4985-a7e0-35ec5b605457.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.721Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213704</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9742</latitude>
+                <longitude>6.65304</longitude>
+            </wgs84>
+            <rd>
+                <x>240028</x>
+                <y>554882</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/659/6598b729-d2dc-4a46-a9cd-259c3ecabb8d.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.809Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213705</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9742</latitude>
+                <longitude>6.65304</longitude>
+            </wgs84>
+            <rd>
+                <x>240028</x>
+                <y>554882</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/e84/e848f29e-689b-4805-908d-c86abe20cdfe.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:15.932Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213706</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9855</latitude>
+                <longitude>6.83323</longitude>
+            </wgs84>
+            <rd>
+                <x>252106</x>
+                <y>556366</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/0f0/0f086477-126f-48c4-b1f9-12e4df06b711.jpg</image>
+            <first_seen>11/01/2016</first_seen>
+            <last_seen>07/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.034Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213708</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0488</latitude>
+                <longitude>6.71401</longitude>
+            </wgs84>
+            <rd>
+                <x>243971</x>
+                <y>563250</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/77c/77c1ec23-41f4-4b28-911a-38ab2513a260.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.132Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213709</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>53.0488</latitude>
+                <longitude>6.71402</longitude>
+            </wgs84>
+            <rd>
+                <x>243972</x>
+                <y>563250</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Annen</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/416/416acccc-d888-4099-be78-e352526196bc.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.239Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213712</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.6519</longitude>
+            </wgs84>
+            <rd>
+                <x>239948</x>
+                <y>555099</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Rolde 33</name>
+                <type>2</type>
+                <number>33</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/2cc/2cc70c0e-e171-4506-a528-4058c8143a79.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>19/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.338Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213713</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.6519</longitude>
+            </wgs84>
+            <rd>
+                <x>239948</x>
+                <y>555099</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/df2/df26bd13-7722-443f-922d-a0696b773cc7.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>19/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.503Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213716</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.65179</longitude>
+            </wgs84>
+            <rd>
+                <x>239941</x>
+                <y>555104</y>
+            </rd>
+            <placement>L</placement>
+            <side>L</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id>479510089</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/791/7919db9c-99cf-41d8-8a03-97b7d9b4b59f.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.588Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213717</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9762</latitude>
+                <longitude>6.65179</longitude>
+            </wgs84>
+            <rd>
+                <x>239941</x>
+                <y>555104</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/147/147a5468-c259-41ba-b0d7-a693d13a8fdb.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.689Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213718</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9683</latitude>
+                <longitude>6.68082</longitude>
+            </wgs84>
+            <rd>
+                <x>241906</x>
+                <y>554261</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/b36/b3614a74-0019-46a1-b9fc-09beb31cac6b.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:16.944Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213719</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9683</latitude>
+                <longitude>6.68082</longitude>
+            </wgs84>
+            <rd>
+                <x>241906</x>
+                <y>554261</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>857</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/b59/b59c1eb2-8ed8-4d87-9eac-0aa3e41bb763.jpg</image>
+            <first_seen>14/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.086Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213722</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9761</latitude>
+                <longitude>6.65106</longitude>
+            </wgs84>
+            <rd>
+                <x>239892</x>
+                <y>555084</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/28c/28cda20b-b516-49c3-ba36-cc34f1c08f8d.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.184Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213723</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9761</latitude>
+                <longitude>6.65106</longitude>
+            </wgs84>
+            <rd>
+                <x>239892</x>
+                <y>555084</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Grollo?rstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/248/248c873b-4481-481d-8467-726cad708d02.jpg</image>
+            <first_seen>18/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.288Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213724</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9983</latitude>
+                <longitude>6.75274</longitude>
+            </wgs84>
+            <rd>
+                <x>246675</x>
+                <y>557681</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Gieten</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/730/7303a612-ccf9-47e3-a297-f48ad045d40f.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>21/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.386Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213725</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9983</latitude>
+                <longitude>6.75274</longitude>
+            </wgs84>
+            <rd>
+                <x>246674</x>
+                <y>557681</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Gieten</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/41c/41c16006-4f44-48d8-ad10-ad0d113936ea.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>21/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.540Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213726</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9048</latitude>
+                <longitude>6.69908</longitude>
+            </wgs84>
+            <rd>
+                <x>243262</x>
+                <y>547210</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Hoofdstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d86/d864e95c-7f64-457e-abcf-638b357b4e40.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:17.790Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213727</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9048</latitude>
+                <longitude>6.69908</longitude>
+            </wgs84>
+            <rd>
+                <x>243262</x>
+                <y>547210</y>
+            </rd>
+            <placement>L</placement>
+            <side>O</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/f0c/f0ce83e6-6cde-4624-8490-5701e690849a.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.044Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213728</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>B6</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9743</latitude>
+                <longitude>6.6529</longitude>
+            </wgs84>
+            <rd>
+                <x>240019</x>
+                <y>554895</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Marwijksoord</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/d93/d93b1330-8711-450f-9dc5-7df59d1ba02b.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.128Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213729</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G12a</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9743</latitude>
+                <longitude>6.6529</longitude>
+            </wgs84>
+            <rd>
+                <x>240019</x>
+                <y>554895</y>
+            </rd>
+            <placement>L</placement>
+            <side>N</side>
+            <road>
+                <name>Borgerderstraat</name>
+                <type>2</type>
+                <number>376</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/b01/b0153633-d77e-4f0a-bfac-7e1bbbe259e9.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>25/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.201Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213754</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G4</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9742</latitude>
+                <longitude>6.77731</longitude>
+            </wgs84>
+            <rd>
+                <x>248376</x>
+                <y>555034</y>
+            </rd>
+            <placement>L</placement>
+            <side>R</side>
+            <road>
+                <name>Gasselte</name>
+                <type>2</type>
+                <number>34</number>
+                <wvk_id>600151871</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/1c3/1c312123-f7d9-4193-805c-e19923a8bf6f.jpg</image>
+            <first_seen>08/01/2016</first_seen>
+            <last_seen>09/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.273Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213759</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>J21</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9974</latitude>
+                <longitude>6.89805</longitude>
+            </wgs84>
+            <rd>
+                <x>256431</x>
+                <y>557781</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id>512515002</wvk_id>
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/092/0926abab-43d9-4fbf-a6b0-8e5b6150ad94.jpg</image>
+            <first_seen>26/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.349Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213804</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G11</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.999</latitude>
+                <longitude>6.92412</longitude>
+            </wgs84>
+            <rd>
+                <x>258177</x>
+                <y>557995</y>
+            </rd>
+            <placement>L</placement>
+            <side>W</side>
+            <road>
+                <name>Noordzijde</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/fd1/fd11257f-63b8-47e5-9ae4-66189fae85cf.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.426Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213864</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G11</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9883</latitude>
+                <longitude>6.84559</longitude>
+            </wgs84>
+            <rd>
+                <x>252930</x>
+                <y>556688</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Ir. W.I.C. van Veelenweg</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/8d2/8d295c29-9f11-4596-90d0-0e768f0beb8a.jpg</image>
+            <first_seen>19/02/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.583Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213871</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G11</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9991</latitude>
+                <longitude>6.92483</longitude>
+            </wgs84>
+            <rd>
+                <x>258224</x>
+                <y>558010</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Noordzijde</name>
+                <type>2</type>
+                <number>378</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/fbd/fbd9169d-3334-4e46-882c-902c073ec6a7.jpg</image>
+            <first_seen>28/01/2016</first_seen>
+            <last_seen>06/02/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.660Z</publication_timestamp>
+    </item>
+    <item>
+        <id>9213886</id>
+        <type>created</type>
+        <schema_version>1.0</schema_version>
+        <validated>n</validated>
+        <validated_on />
+        <user_id />
+        <organisation_id />
+        <rvv_code>G11</rvv_code>
+        <text_signs />
+        <location>
+            <wgs84>
+                <latitude>52.9089</latitude>
+                <longitude>6.71151</longitude>
+            </wgs84>
+            <rd>
+                <x>244089</x>
+                <y>547682</y>
+            </rd>
+            <placement>L</placement>
+            <side>Z</side>
+            <road>
+                <name>Westdorperstraat</name>
+                <type>2</type>
+                <number>374</number>
+                <wvk_id />
+            </road>
+            <county>
+                <name>Aa En Hunze</name>
+                <code>GM1680</code>
+                <townname />
+            </county>
+        </location>
+        <details>
+            <image>https://signimages.ipsm.nl/571/5715ef55-574e-41e3-bc24-1a2778c7b056.jpg</image>
+            <first_seen>21/12/2015</first_seen>
+            <last_seen>26/01/2018</last_seen>
+            <removed />
+        </details>
+        <publication_timestamp>2020-07-06T16:50:18.726Z</publication_timestamp>
+    </item>
+</List>
